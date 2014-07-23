@@ -1,0 +1,1144 @@
+<resources>
+
+    <string-array name="community_category">
+        <item>All Community</item>
+        <item>Activities</item>
+        <item>Artists</item>
+        <item>Childcare</item>
+        <item>General</item>
+        <item>Groups</item>
+        <item>Pets</item>
+        <item>Events</item>
+        <item>Lost + Found</item>
+        <item>Musicians</item>
+        <item>Local News</item>
+        <item>Politics</item>
+        <item>Rideshare</item>
+        <item>Volunteers</item>
+        <item>Classes</item>
+    </string-array>
+    <string-array name="jobs_category">
+        <item>All Jobs</item>
+        <item>Accounting + Finance</item>
+        <item>Admin/Office</item>
+        <item>Architecture/Engineering</item>
+        <item>Art/Media/Design</item>
+        <item>Biotech/Science</item>
+        <item>Business/Management</item>
+        <item>Customer Service</item>
+        <item>Education</item>
+        <item>Food/Bev./Hosp.</item>
+        <item>General Labor</item>
+        <item>Government</item>
+        <item>HR</item>
+        <item>Internet Engineers</item>
+        <item>Legal/Paralegal</item>
+        <item>Manufacturing</item>
+        <item>Marketing/PR/Ad.</item>
+        <item>Medical/Health</item>
+        <item>Nonprofit Sector</item>
+        <item>Real Estate</item>
+        <item>Retail/Wholesale</item>
+        <item>Sales/Bus. Dev.</item>
+        <item>Salon/Spa/Fitness</item>
+        <item>Security</item>
+        <item>Skilled Trade/Craft</item>
+        <item>Software/QA/DBA</item>
+        <item>Systems/Network</item>
+        <item>Technical Support</item>
+        <item>Transport</item>
+        <item>TV/Film/Video</item>
+        <item>Web/Info. Design</item>
+        <item>Writing/Editing</item>
+        <item>[ETC]</item>
+        <item>[Part-time]</item>
+    </string-array>
+    <string-array name="housing_category">
+        <item>All Housing</item>
+        <item>Apts./Housing (by owner)</item>
+        <item>Apts./Housing (no broker fee)</item>
+        <item>Apts./Housing (broker fee)</item>
+        <item>Apts./Housing (reg. fee)</item>
+        <item>Rooms/Shared</item>
+        <item>Sublets/Temporary</item>
+        <item>Housing Wanted</item>
+        <item>Housing Swap</item>
+        <item>Vacation rentals</item>
+        <item>Parking/Storage</item>
+        <item>Office/Commercial</item>
+        <item>Real estate for sale</item>
+    </string-array>
+    <string-array name="Alabama">
+        <item>auburn</item>
+        <item>bham</item>
+        <item>dothan</item>
+        <item>shoals</item>
+        <item>gadsden</item>
+        <item>huntsville</item>
+        <item>mobile</item>
+        <item>montgomery</item>
+        <item>tuscaloosa</item>
+    </string-array>
+    <string-array name="Alaska">
+        <item>anchorage</item>
+        <item>fairbanks</item>
+        <item>kenai</item>
+        <item>juneau</item>
+    </string-array>
+    <string-array name="Arizona">
+        <item>flagstaff</item>
+        <item>mohave</item>
+        <item>phoenix</item>
+        <item>prescott</item>
+        <item>showlow</item>
+        <item>sierravista</item>
+        <item>tucson</item>
+        <item>yuma</item>
+    </string-array>
+    <string-array name="Arkansas">
+        <item>fayar</item>
+        <item>fortsmith</item>
+        <item>jonesboro</item>
+        <item>littlerock</item>
+        <item>texarkana</item>
+    </string-array>
+    <string-array name="California">
+        <item>bakersfield</item>
+        <item>chico</item>
+        <item>fresno</item>
+        <item>goldcountry</item>
+        <item>hanford</item>
+        <item>humboldt</item>
+        <item>imperial</item>
+        <item>inlandempire</item>
+        <item>losangeles</item>
+        <item>mendocino</item>
+        <item>merced</item>
+        <item>modesto</item>
+        <item>monterey</item>
+        <item>orangecounty</item>
+        <item>palmsprings</item>
+        <item>redding</item>
+        <item>sacramento</item>
+        <item>sandiego</item>
+        <item>sfbay</item>
+        <item>slo</item>
+        <item>santabarbara</item>
+        <item>santamaria</item>
+        <item>siskiyou</item>
+        <item>stockton</item>
+        <item>susanville</item>
+        <item>ventura</item>
+        <item>visalia</item>
+        <item>yubasutter</item>
+    </string-array>
+    <string-array name="Colorado">
+        <item>boulder</item>
+        <item>cosprings</item>
+        <item>denver</item>
+        <item>eastco</item>
+        <item>fortcollins</item>
+        <item>rockies</item>
+        <item>pueblo</item>
+        <item>westslope</item>
+    </string-array>
+    <string-array name="Connecticut">
+        <item>newlondon</item>
+        <item>hartford</item>
+        <item>newhaven</item>
+        <item>nwct</item>
+    </string-array>
+    <string-array name="Delaware">
+        <item>delaware</item>
+    </string-array>
+    <string-array name="District_of_Columbia">
+        <item>washingtondc</item>
+    </string-array>
+    <string-array name="Florida">
+        <item>daytona</item>
+        <item>keys</item>
+        <item>fortlauderdale</item>
+        <item>fortmyers</item>
+        <item>gainesville</item>
+        <item>cfl</item>
+        <item>jacksonville</item>
+        <item>lakeland</item>
+        <item>lakecity</item>
+        <item>ocala</item>
+        <item>okaloosa</item>
+        <item>orlando</item>
+        <item>panamacity</item>
+        <item>pensacola</item>
+        <item>sarasota</item>
+        <item>miami</item>
+        <item>spacecoast</item>
+        <item>staugustine</item>
+        <item>tallahassee</item>
+        <item>tampa</item>
+        <item>treasure</item>
+        <item>westpalmbeach</item>
+    </string-array>
+    <string-array name="Georgia">
+        <item>albanyga</item>
+        <item>athensga</item>
+        <item>atlanta</item>
+        <item>augusta</item>
+        <item>brunswick</item>
+        <item>columbusga</item>
+        <item>macon</item>
+        <item>nwga</item>
+        <item>savannah</item>
+        <item>statesboro</item>
+        <item>valdosta</item>
+    </string-array>
+    <string-array name="Hawaii">
+        <item>honolulu</item>
+    </string-array>
+    <string-array name="Idaho">
+        <item>boise</item>
+        <item>eastidaho</item>
+        <item>lewiston</item>
+        <item>twinfalls</item>
+    </string-array>
+    <string-array name="Illinois">
+        <item>bn</item>
+        <item>chambana</item>
+        <item>chicago</item>
+        <item>decatur</item>
+        <item>lasalle</item>
+        <item>mattoon</item>
+        <item>peoria</item>
+        <item>rockford</item>
+        <item>carbondale</item>
+        <item>springfieldil</item>
+        <item>quincy</item>
+    </string-array>
+    <string-array name="Indiana">
+        <item>bloomington</item>
+        <item>evansville</item>
+        <item>fortwayne</item>
+        <item>indianapolis</item>
+        <item>kokomo</item>
+        <item>tippecanoe</item>
+        <item>muncie</item>
+        <item>richmondin</item>
+        <item>southbend</item>
+        <item>terrehaute</item>
+    </string-array>
+    <string-array name="Iowa">
+        <item>ames</item>
+        <item>cedarrapids</item>
+        <item>desmoines</item>
+        <item>dubuque</item>
+        <item>fortdodge</item>
+        <item>iowacity</item>
+        <item>masoncity</item>
+        <item>quadcities</item>
+        <item>siouxcity</item>
+        <item>ottumwa</item>
+        <item>waterloo</item>
+    </string-array>
+    <string-array name="Kansas">
+        <item>lawrence</item>
+        <item>ksu</item>
+        <item>nwks</item>
+        <item>salina</item>
+        <item>seks</item>
+        <item>swks</item>
+        <item>topeka</item>
+        <item>wichita</item>
+    </string-array>
+    <string-array name="Kentucky">
+        <item>bgky</item>
+        <item>eastky</item>
+        <item>lexington</item>
+        <item>louisville</item>
+        <item>owensboro</item>
+        <item>westky</item>
+    </string-array>
+    <string-array name="Louisiana">
+        <item>batonrouge</item>
+        <item>cenla</item>
+        <item>houma</item>
+        <item>lafayette</item>
+        <item>lakecharles</item>
+        <item>monroe</item>
+        <item>neworleans</item>
+        <item>shreveport</item>
+    </string-array>
+    <string-array name="Maine">
+        <item>maine</item>
+    </string-array>
+    <string-array name="Maryland">
+        <item>annapolis</item>
+        <item>baltimore</item>
+        <item>easternshore</item>
+        <item>frederick</item>
+        <item>smd</item>
+        <item>westmd</item>
+    </string-array>
+    <string-array name="Massachusetts">
+        <item>boston</item>
+        <item>capecod</item>
+        <item>southcoast</item>
+        <item>westernmass</item>
+        <item>worcester</item>
+    </string-array>
+    <string-array name="Michigan">
+        <item>annarbor</item>
+        <item>battlecreek</item>
+        <item>centralmich</item>
+        <item>detroit</item>
+        <item>flint</item>
+        <item>grandrapids</item>
+        <item>holland</item>
+        <item>jxn</item>
+        <item>kalamazoo</item>
+        <item>lansing</item>
+        <item>monroemi</item>
+        <item>muskegon</item>
+        <item>nmi</item>
+        <item>porthuron</item>
+        <item>saginaw</item>
+        <item>swmi</item>
+        <item>thumb</item>
+        <item>up</item>
+    </string-array>
+    <string-array name="Minnesota">
+        <item>bemidji</item>
+        <item>brainerd</item>
+        <item>duluth</item>
+        <item>mankato</item>
+        <item>minneapolis</item>
+        <item>rmn</item>
+        <item>marshall</item>
+        <item>stcloud</item>
+    </string-array>
+    <string-array name="Mississippi">
+        <item>gulfport</item>
+        <item>hattiesburg</item>
+        <item>jackson</item>
+        <item>meridian</item>
+        <item>northmiss</item>
+        <item>natchez</item>
+    </string-array>
+    <string-array name="Missouri">
+        <item>columbiamo</item>
+        <item>joplin</item>
+        <item>kansascity</item>
+        <item>kirksville</item>
+        <item>loz</item>
+        <item>semo</item>
+        <item>springfield</item>
+        <item>stjoseph</item>
+        <item>stlouis</item>
+    </string-array>
+    <string-array name="Montana">
+        <item>billings</item>
+        <item>bozeman</item>
+        <item>butte</item>
+        <item>greatfalls</item>
+        <item>helena</item>
+        <item>kalispell</item>
+        <item>missoula</item>
+        <item>montana</item>
+    </string-array>
+    <string-array name="Nebraska">
+        <item>grandisland</item>
+        <item>lincoln</item>
+        <item>northplatte</item>
+        <item>omaha</item>
+        <item>scottsbluff</item>
+    </string-array>
+    <string-array name="Nevada">
+        <item>elko</item>
+        <item>lasvegas</item>
+        <item>reno</item>
+    </string-array>
+    <string-array name="New_Hampshire">
+        <item>nh</item>
+    </string-array>
+    <string-array name="New_Jersey">
+        <item>cnj</item>
+        <item>jerseyshore</item>
+        <item>newjersey</item>
+        <item>southjersey</item>
+    </string-array>
+    <string-array name="New_Mexico">
+        <item>albuquerque</item>
+        <item>clovis</item>
+        <item>farmington</item>
+        <item>lascruces</item>
+        <item>roswell</item>
+        <item>santafe</item>
+    </string-array>
+    <string-array name="New_York">
+        <item>albany</item>
+        <item>binghamton</item>
+        <item>buffalo</item>
+        <item>catskills</item>
+        <item>chautauqua</item>
+        <item>elmira</item>
+        <item>fingerlakes</item>
+        <item>glensfalls</item>
+        <item>hudsonvalley</item>
+        <item>ithaca</item>
+        <item>longisland</item>
+        <item>newyork</item>
+        <item>oneonta</item>
+        <item>plattsburgh</item>
+        <item>potsdam</item>
+        <item>rochester</item>
+        <item>syracuse</item>
+        <item>twintiers</item>
+        <item>utica</item>
+        <item>watertown</item>
+    </string-array>
+    <string-array name="North_Carolina">
+        <item>asheville</item>
+        <item>boone</item>
+        <item>charlotte</item>
+        <item>eastnc</item>
+        <item>fayetteville</item>
+        <item>greensboro</item>
+        <item>hickory</item>
+        <item>onslow</item>
+        <item>outerbanks</item>
+        <item>raleigh</item>
+        <item>wilmington</item>
+        <item>winstonsalem</item>
+    </string-array>
+    <string-array name="North_Dakota">
+        <item>bismarck</item>
+        <item>fargo</item>
+        <item>grandforks</item>
+        <item>nd</item>
+    </string-array>
+    <string-array name="Ohio">
+        <item>akroncanton</item>
+        <item>ashtabula</item>
+        <item>athensohio</item>
+        <item>chillicothe</item>
+        <item>cincinnati</item>
+        <item>cleveland</item>
+        <item>columbus</item>
+        <item>dayton</item>
+        <item>limaohio</item>
+        <item>mansfield</item>
+        <item>sandusky</item>
+        <item>toledo</item>
+        <item>tuscarawas</item>
+        <item>youngstown</item>
+        <item>zanesville</item>
+    </string-array>
+    <string-array name="Oklahoma">
+        <item>lawton</item>
+        <item>enid</item>
+        <item>oklahomacity</item>
+        <item>stillwater</item>
+        <item>tulsa</item>
+    </string-array>
+    <string-array name="Oregon">
+        <item>bend</item>
+        <item>corvallis</item>
+        <item>eastoregon</item>
+        <item>eugene</item>
+        <item>klamath</item>
+        <item>medford</item>
+        <item>oregoncoast</item>
+        <item>portland</item>
+        <item>roseburg</item>
+        <item>salem</item>
+    </string-array>
+    <string-array name="Pennsylvania">
+        <item>altoona</item>
+        <item>chambersburg</item>
+        <item>erie</item>
+        <item>harrisburg</item>
+        <item>lancaster</item>
+        <item>allentown</item>
+        <item>meadville</item>
+        <item>philadelphia</item>
+        <item>pittsburgh</item>
+        <item>poconos</item>
+        <item>reading</item>
+        <item>scranton</item>
+        <item>pennstate</item>
+        <item>williamsport</item>
+        <item>york</item>
+    </string-array>
+    <string-array name="Rhode_Island">
+        <item>providence</item>
+    </string-array>
+    <string-array name="South_Carolina">
+        <item>charleston</item>
+        <item>columbia</item>
+        <item>florencesc</item>
+        <item>greenville</item>
+        <item>hiltonhead</item>
+        <item>myrtlebeach</item>
+    </string-array>
+    <string-array name="South_Dakota">
+        <item>nesd</item>
+        <item>csd</item>
+        <item>rapidcity</item>
+        <item>siouxfalls</item>
+        <item>sd</item>
+    </string-array>
+    <string-array name="Tennessee">
+        <item>chattanooga</item>
+        <item>clarksville</item>
+        <item>cookeville</item>
+        <item>jacksontn</item>
+        <item>knoxville</item>
+        <item>memphis</item>
+        <item>nashville</item>
+        <item>tricities</item>
+    </string-array>
+    <string-array name="Texas">
+        <item>abilene</item>
+        <item>amarillo</item>
+        <item>austin</item>
+        <item>beaumont</item>
+        <item>brownsville</item>
+        <item>collegestation</item>
+        <item>corpuschristi</item>
+        <item>dallas</item>
+        <item>nacogdoches</item>
+        <item>delrio</item>
+        <item>elpaso</item>
+        <item>galveston</item>
+        <item>houston</item>
+        <item>killeen</item>
+        <item>laredo</item>
+        <item>lubbock</item>
+        <item>mcallen</item>
+        <item>odessa</item>
+        <item>sanangelo</item>
+        <item>sanantonio</item>
+        <item>sanmarcos</item>
+        <item>bigbend</item>
+        <item>texoma</item>
+        <item>easttexas</item>
+        <item>victoriatx</item>
+        <item>waco</item>
+        <item>wichitafalls</item>
+    </string-array>
+    <string-array name="Utah">
+        <item>logan</item>
+        <item>ogden</item>
+        <item>provo</item>
+        <item>saltlakecity</item>
+        <item>stgeorge</item>
+    </string-array>
+    <string-array name="Vermont">
+        <item>burlington</item>
+    </string-array>
+    <string-array name="Virginia">
+        <item>charlottesville</item>
+        <item>danville</item>
+        <item>fredericksburg</item>
+        <item>norfolk</item>
+        <item>harrisonburg</item>
+        <item>lynchburg</item>
+        <item>blacksburg</item>
+        <item>richmond</item>
+        <item>roanoke</item>
+        <item>swva</item>
+        <item>winchester</item>
+    </string-array>
+    <string-array name="Washington">
+        <item>bellingham</item>
+        <item>kpr</item>
+        <item>moseslake</item>
+        <item>olympic</item>
+        <item>pullman</item>
+        <item>seattle</item>
+        <item>skagit</item>
+        <item>spokane</item>
+        <item>wenatchee</item>
+        <item>yakima</item>
+    </string-array>
+    <string-array name="West_Virginia">
+        <item>charlestonwv</item>
+        <item>martinsburg</item>
+        <item>huntington</item>
+        <item>morgantown</item>
+        <item>wheeling</item>
+        <item>parkersburg</item>
+        <item>swv</item>
+        <item>wv</item>
+    </string-array>
+    <string-array name="Wisconsin">
+        <item>appleton</item>
+        <item>eauclaire</item>
+        <item>greenbay</item>
+        <item>janesville</item>
+        <item>racine</item>
+        <item>lacrosse</item>
+        <item>madison</item>
+        <item>milwaukee</item>
+        <item>northernwi</item>
+        <item>sheboygan</item>
+        <item>wausau</item>
+    </string-array>
+    <string-array name="Wyoming">
+        <item>wyoming</item>
+    </string-array>
+    <string-array name="Territories">
+        <item>micronesia</item>
+        <item>puertorico</item>
+        <item>virgin</item>
+    </string-array>
+    <string-array name="Alberta">
+        <item>calgary</item>
+        <item>edmonton</item>
+        <item>ftmcmurray</item>
+        <item>lethbridge</item>
+        <item>hat</item>
+        <item>peace</item>
+        <item>reddeer</item>
+    </string-array>
+    <string-array name="British_Columbia">
+        <item>cariboo</item>
+        <item>comoxvalley</item>
+        <item>abbotsford</item>
+        <item>kamloops</item>
+        <item>kelowna</item>
+        <item>cranbrook</item>
+        <item>nanaimo</item>
+        <item>princegeorge</item>
+        <item>skeena</item>
+        <item>sunshine</item>
+        <item>vancouver</item>
+        <item>victoria</item>
+        <item>whistler</item>
+    </string-array>
+    <string-array name="Manitoba">
+        <item>winnipeg</item>
+    </string-array>
+    <string-array name="New_Brunswick">
+        <item>newbrunswick</item>
+    </string-array>
+    <string-array name="Newfoundland_and_Labrador">
+        <item>newfoundland</item>
+    </string-array>
+    <string-array name="Northwest_Territories">
+        <item>territories</item>
+        <item>yellowknife</item>
+    </string-array>
+    <string-array name="Nova_Scotia">
+        <item>halifax</item>
+    </string-array>
+    <string-array name="Ontario">
+        <item>barrie</item>
+        <item>belleville</item>
+        <item>brantford</item>
+        <item>chatham</item>
+        <item>cornwall</item>
+        <item>guelph</item>
+        <item>hamilton</item>
+        <item>kingston</item>
+        <item>kitchener</item>
+        <item>londonon</item>
+        <item>niagara</item>
+        <item>ottawa</item>
+        <item>owensound</item>
+        <item>peterborough</item>
+        <item>sarnia</item>
+        <item>soo</item>
+        <item>sudbury</item>
+        <item>thunderbay</item>
+        <item>toronto</item>
+        <item>windsor</item>
+    </string-array>
+    <string-array name="Prince_Edward_Island">
+        <item>pei</item>
+    </string-array>
+    <string-array name="Quebec">
+        <item>montreal</item>
+        <item>quebec</item>
+        <item>saguenay</item>
+        <item>sherbrooke</item>
+        <item>troisrivieres</item>
+    </string-array>
+    <string-array name="Saskatchewan">
+        <item>regina</item>
+        <item>saskatoon</item>
+    </string-array>
+    <string-array name="Yukon_Territory">
+        <item>whitehorse</item>
+    </string-array>
+    <string-array name="Austria">
+        <item>vienna</item>
+    </string-array>
+    <string-array name="Belgium">
+        <item>brussels</item>
+    </string-array>
+    <string-array name="Bulgaria">
+        <item>bulgaria</item>
+    </string-array>
+    <string-array name="Croatia">
+        <item>zagreb</item>
+    </string-array>
+    <string-array name="Czech_Republic">
+        <item>prague</item>
+    </string-array>
+    <string-array name="Denmark">
+        <item>copenhagen</item>
+    </string-array>
+    <string-array name="Finland">
+        <item>helsinki</item>
+    </string-array>
+    <string-array name="France">
+        <item>bordeaux</item>
+        <item>rennes</item>
+        <item>grenoble</item>
+        <item>lille</item>
+        <item>loire</item>
+        <item>lyon</item>
+        <item>marseilles</item>
+        <item>montpellier</item>
+        <item>cotedazur</item>
+        <item>rouen</item>
+        <item>paris</item>
+        <item>strasbourg</item>
+        <item>toulouse</item>
+    </string-array>
+    <string-array name="Germany">
+        <item>berlin</item>
+        <item>bremen</item>
+        <item>cologne</item>
+        <item>dresden</item>
+        <item>dusseldorf</item>
+        <item>essen</item>
+        <item>frankfurt</item>
+        <item>hamburg</item>
+        <item>hannover</item>
+        <item>heidelberg</item>
+        <item>kaiserslautern</item>
+        <item>leipzig</item>
+        <item>munich</item>
+        <item>nuremberg</item>
+        <item>stuttgart</item>
+    </string-array>
+    <string-array name="Greece">
+        <item>athens</item>
+    </string-array>
+    <string-array name="Hungary">
+        <item>budapest</item>
+    </string-array>
+    <string-array name="Iceland">
+        <item>reykjavik</item>
+    </string-array>
+    <string-array name="Ireland">
+        <item>dublin</item>
+    </string-array>
+    <string-array name="Italy">
+        <item>bologna</item>
+        <item>florence</item>
+        <item>genoa</item>
+        <item>milan</item>
+        <item>naples</item>
+        <item>perugia</item>
+        <item>rome</item>
+        <item>sardinia</item>
+        <item>sicily</item>
+        <item>torino</item>
+        <item>venice</item>
+    </string-array>
+    <string-array name="Luxembourg">
+        <item>luxembourg</item>
+    </string-array>
+    <string-array name="Netherlands">
+        <item>amsterdam</item>
+    </string-array>
+    <string-array name="Norway">
+        <item>oslo</item>
+    </string-array>
+    <string-array name="Poland">
+        <item>warsaw</item>
+    </string-array>
+    <string-array name="Portugal">
+        <item>faro</item>
+        <item>lisbon</item>
+        <item>porto</item>
+    </string-array>
+    <string-array name="Romania">
+        <item>bucharest</item>
+    </string-array>
+    <string-array name="Russian_Federation">
+        <item>moscow</item>
+        <item>stpetersburg</item>
+    </string-array>
+    <string-array name="Spain">
+        <item>alicante</item>
+        <item>baleares</item>
+        <item>barcelona</item>
+        <item>bilbao</item>
+        <item>cadiz</item>
+        <item>canarias</item>
+        <item>granada</item>
+        <item>madrid</item>
+        <item>malaga</item>
+        <item>sevilla</item>
+        <item>valencia</item>
+    </string-array>
+    <string-array name="Sweden">
+        <item>stockholm</item>
+    </string-array>
+    <string-array name="Switzerland">
+        <item>basel</item>
+        <item>bern</item>
+        <item>geneva</item>
+        <item>lausanne</item>
+        <item>zurich</item>
+    </string-array>
+    <string-array name="Turkey">
+        <item>istanbul</item>
+    </string-array>
+    <string-array name="Ukraine">
+        <item>ukraine</item>
+    </string-array>
+    <string-array name="United_Kingdom">
+        <item>aberdeen</item>
+        <item>bath</item>
+        <item>belfast</item>
+        <item>birmingham</item>
+        <item>brighton</item>
+        <item>bristol</item>
+        <item>cambridge</item>
+        <item>cardiff</item>
+        <item>coventry</item>
+        <item>derby</item>
+        <item>devon</item>
+        <item>dundee</item>
+        <item>norwich</item>
+        <item>eastmids</item>
+        <item>edinburgh</item>
+        <item>essex</item>
+        <item>glasgow</item>
+        <item>hampshire</item>
+        <item>kent</item>
+        <item>leeds</item>
+        <item>liverpool</item>
+        <item>london</item>
+        <item>manchester</item>
+        <item>newcastle</item>
+        <item>nottingham</item>
+        <item>oxford</item>
+        <item>sheffield</item>
+    </string-array>
+    <string-array name="Bangladesh">
+        <item>bangladesh</item>
+    </string-array>
+    <string-array name="China">
+        <item>beijing</item>
+        <item>chengdu</item>
+        <item>chongqing</item>
+        <item>dalian</item>
+        <item>guangzhou</item>
+        <item>hangzhou</item>
+        <item>nanjing</item>
+        <item>shanghai</item>
+        <item>shenyang</item>
+        <item>shenzhen</item>
+        <item>wuhan</item>
+        <item>xian</item>
+    </string-array>
+    <string-array name="Guam_Micronesia">
+        <item>micronesia</item>
+    </string-array>
+    <string-array name="Hong_Kong">
+        <item>hongkong</item>
+    </string-array>
+    <string-array name="India">
+        <item>ahmedabad</item>
+        <item>bangalore</item>
+        <item>bhubaneswar</item>
+        <item>chandigarh</item>
+        <item>chennai</item>
+        <item>delhi</item>
+        <item>goa</item>
+        <item>hyderabad</item>
+        <item>indore</item>
+        <item>jaipur</item>
+        <item>kerala</item>
+        <item>kolkata</item>
+        <item>lucknow</item>
+        <item>mumbai</item>
+        <item>pune</item>
+        <item>surat</item>
+    </string-array>
+    <string-array name="Indonesia">
+        <item>jakarta</item>
+    </string-array>
+    <string-array name="Iran">
+        <item>tehran</item>
+    </string-array>
+    <string-array name="Iraq">
+        <item>baghdad</item>
+    </string-array>
+    <string-array name="Israel_and_Palestine">
+        <item>haifa</item>
+        <item>jerusalem</item>
+        <item>telaviv</item>
+        <item>ramallah</item>
+    </string-array>
+    <string-array name="Japan">
+        <item>fukuoka</item>
+        <item>hiroshima</item>
+        <item>nagoya</item>
+        <item>okinawa</item>
+        <item>osaka</item>
+        <item>sapporo</item>
+        <item>sendai</item>
+        <item>tokyo</item>
+    </string-array>
+    <string-array name="Korea">
+        <item>seoul</item>
+    </string-array>
+    <string-array name="Kuwait">
+        <item>kuwait</item>
+    </string-array>
+    <string-array name="Lebanon">
+        <item>beirut</item>
+    </string-array>
+    <string-array name="Malaysia">
+        <item>malaysia</item>
+    </string-array>
+    <string-array name="Pakistan">
+        <item>pakistan</item>
+    </string-array>
+    <string-array name="Philippines">
+        <item>bacolod</item>
+        <item>naga</item>
+        <item>cdo</item>
+        <item>cebu</item>
+        <item>davaocity</item>
+        <item>iloilo</item>
+        <item>manila</item>
+        <item>pampanga</item>
+        <item>zamboanga</item>
+    </string-array>
+    <string-array name="Singapore">
+        <item>singapore</item>
+    </string-array>
+    <string-array name="Taiwan">
+        <item>taipei</item>
+    </string-array>
+    <string-array name="Thailand">
+        <item>bangkok</item>
+    </string-array>
+    <string-array name="United_Arab_Emirates">
+        <item>dubai</item>
+    </string-array>
+    <string-array name="Vietnam">
+        <item>vietnam</item>
+    </string-array>
+    <string-array name="Australia">
+        <item>adelaide</item>
+        <item>brisbane</item>
+        <item>cairns</item>
+        <item>canberra</item>
+        <item>darwin</item>
+        <item>goldcoast</item>
+        <item>melbourne</item>
+        <item>ntl</item>
+        <item>perth</item>
+        <item>sydney</item>
+        <item>hobart</item>
+        <item>wollongong</item>
+    </string-array>
+    <string-array name="New_Zealand">
+        <item>auckland</item>
+        <item>christchurch</item>
+        <item>dunedin</item>
+        <item>wellington</item>
+    </string-array>
+    <string-array name="Argentina">
+        <item>buenosaires</item>
+    </string-array>
+    <string-array name="Bolivia">
+        <item>lapaz</item>
+    </string-array>
+    <string-array name="Brazil">
+        <item>belohorizonte</item>
+        <item>brasilia</item>
+        <item>curitiba</item>
+        <item>fortaleza</item>
+        <item>portoalegre</item>
+        <item>recife</item>
+        <item>rio</item>
+        <item>salvador</item>
+        <item>saopaulo</item>
+    </string-array>
+    <string-array name="Caribbean_Islands">
+        <item>caribbean</item>
+    </string-array>
+    <string-array name="Chile">
+        <item>santiago</item>
+    </string-array>
+    <string-array name="Colombia">
+        <item>colombia</item>
+    </string-array>
+    <string-array name="Costa_Rica">
+        <item>costarica</item>
+    </string-array>
+    <string-array name="Dominican_Republic">
+        <item>santodomingo</item>
+    </string-array>
+    <string-array name="Ecuador">
+        <item>quito</item>
+    </string-array>
+    <string-array name="El_Salvador">
+        <item>elsalvador</item>
+    </string-array>
+    <string-array name="Guatemala">
+        <item>guatemala</item>
+    </string-array>
+    <string-array name="Mexico">
+        <item>acapulco</item>
+        <item>bajasur</item>
+        <item>chihuahua</item>
+        <item>juarez</item>
+        <item>guadalajara</item>
+        <item>guanajuato</item>
+        <item>hermosillo</item>
+        <item>mazatlan</item>
+        <item>mexicocity</item>
+        <item>monterrey</item>
+        <item>oaxaca</item>
+        <item>puebla</item>
+        <item>pv</item>
+        <item>tijuana</item>
+        <item>veracruz</item>
+        <item>yucatan</item>
+    </string-array>
+    <string-array name="Nicaragua">
+        <item>managua</item>
+    </string-array>
+    <string-array name="Panama">
+        <item>panama</item>
+    </string-array>
+    <string-array name="Peru">
+        <item>lima</item>
+    </string-array>
+    <string-array name="Puerto_Rico">
+        <item>puertorico</item>
+    </string-array>
+    <string-array name="Uruguay">
+        <item>montevideo</item>
+    </string-array>
+    <string-array name="Venezuela">
+        <item>caracas</item>
+    </string-array>
+    <string-array name="Virgin_Islands_US">
+        <item>virgin</item>
+    </string-array>
+    <string-array name="Egypt">
+        <item>cairo</item>
+    </string-array>
+    <string-array name="Ethiopia">
+        <item>addisababa</item>
+    </string-array>
+    <string-array name="Ghana">
+        <item>accra</item>
+    </string-array>
+    <string-array name="Kenya">
+        <item>kenya</item>
+    </string-array>
+    <string-array name="Morocco">
+        <item>casablanca</item>
+    </string-array>
+    <string-array name="South_Africa">
+        <item>capetown</item>
+        <item>durban</item>
+        <item>johannesburg</item>
+        <item>pretoria</item>
+    </string-array>
+    <string-array name="Tunisia">
+        <item>tunis</item>
+    </string-array>
+    <string-array name="primary_locations">
+        <item>USA</item>
+        <item>Canada</item>
+        <item>Argentina</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Bangladesh</item>
+        <item>Belgium</item>
+        <item>Bolivia</item>
+        <item>Brazil</item>
+        <item>Bulgaria</item>
+        <item>Caribbean Islands</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Costa Rica</item>
+        <item>Croatia</item>
+        <item>Czech Republic</item>
+        <item>Denmark</item>
+        <item>Dominican Republic</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Ethiopia</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Greece</item>
+        <item>Guam / Micronesia</item>
+        <item>Guatemala</item>
+        <item>Hong Kong</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Israel and Palestine</item>
+        <item>Italy</item>
+        <item>Japan</item>
+        <item>Kenya</item>
+        <item>Korea</item>
+        <item>Kuwait</item>
+        <item>Lebanon</item>
+        <item>Luxembourg</item>
+        <item>Malaysia</item>
+        <item>Mexico</item>
+        <item>Morocco</item>
+        <item>Netherlands</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Norway</item>
+        <item>Pakistan</item>
+        <item>Panama</item>
+        <item>Peru</item>
+        <item>Puerto Rico</item>
+        <item>Philippines</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Romania</item>
+        <item>Russian Federation</item>
+        <item>Singapore</item>
+        <item>South Africa</item>
+        <item>Spain</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Taiwan</item>
+        <item>Thailand</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Ukraine</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>Uruguay</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Virgin Islands US</item>
+    </string-array>
+
+</resources>
